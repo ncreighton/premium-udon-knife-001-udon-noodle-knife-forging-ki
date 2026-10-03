@@ -1,0 +1,2 @@
+# premium-udon-knife-001-udon-noodle-knife-forging-ki
+Struggling to keep track of blade geometry, heat treatment cycles, and noodle-cutting test results for your custom udon knives? Your forge notes are scattered across notebooks, scraps of paper, and browser tabs.  This Notion template centralizes every aspect of udon noodle knife forging, from steel selection to final edge sharpening. It replaces ch
